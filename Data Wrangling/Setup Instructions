@@ -1,0 +1,15 @@
+Instructions for participants
+Before attending the practical data engineering session using Jupyter Notebook, participants should have the following environments/software/tools installed and ready to use:
+
+Python 3. x
+pip
+Jupyter Notebook
+Pandas
+Matplotlib
+Seaborn
+Numpy
+
+Tasks and readings that you might ask participants to undertake in advance include:
+
+Review the basics of Python programming and familiarize themselves with Jupyter Notebook and how to use it to create and run Python code.
+Complete some basic Pandas tutorials to become familiar with data manipulation and analysis.
